@@ -2,7 +2,7 @@
 
 1.  ER Diagram
 
-![image](https://user-images.githubusercontent.com/64922494/126759470-a90c39af-11d0-4c68-9db0-178d8a1d9d08.png)
+![image](https://github.com/venkata-kalavathi-kilari/Electricity-Bill-Management-System/blob/main/ER%20.png?raw=true)
 
 2.  Schema Diagram
 
